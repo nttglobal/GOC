@@ -22,3 +22,9 @@
 
 # Mumbai,,,
 119.31.171.0/24,IN,IN,India
+
+# Amsterdam
+77.247.0.0/24,NL,,Amsterdam
+
+# Chicago
+69.26.48.0/24,US,US-IL,Chicago
